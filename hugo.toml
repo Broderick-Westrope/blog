@@ -1,0 +1,4 @@
+baseURL = 'https://westrope.dev/'
+languageCode = 'en-us'
+title = 'Broderick Westrope'
+theme = 'hugo-theme-stack'
